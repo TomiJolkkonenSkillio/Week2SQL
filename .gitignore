@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-world.sql
+./world.sql
 
 # Distribution / packaging
 .Python
